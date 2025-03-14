@@ -1,5 +1,5 @@
 import express from 'express'
-import routes from '../routes/routesMovie.js'
+import router from '../routes/routesMovie.js'
 
 const app = express()
 
